@@ -1,0 +1,6 @@
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\a2g_work\BGH\20160913\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
